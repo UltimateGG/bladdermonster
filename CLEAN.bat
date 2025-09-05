@@ -1,7 +1,7 @@
 @echo off
 setlocal enabledelayedexpansion
 
-set "dirname=PearlsWoods"
+set "dirname=BladderMonster"
 
 if exist "%localappdata%\%dirname%\" (
     echo Directory %dirname% exists. Deleting...
